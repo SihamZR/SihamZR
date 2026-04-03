@@ -7,9 +7,22 @@
 
 ## 🧠 About Me
 - 🎓 Master 2 Data Science – Centrale Lyon  
+- 🎓 Master spécialisé en Data Science – Faculté des Sciences Semlalia, Marrakech  
 - 💼 4+ years experience in Data / AI  
-- ⚡ End-to-end projects: from data analysis to model deployment  
-- ☁️ Experience with GCP, BigQuery, Docker, MLflow  
+
+---
+
+## 🚀 Data Science Expertise
+- 📊 **Business & Data Understanding**: cadrage des besoins métier, analyse des données, EDA, feature engineering  
+- 🤖 **Modeling (ML/DL)**: développement de modèles supervisés & non supervisés (RF, SVM, XGBoost, clustering, réseaux de neurones)  
+- 📈 **Evaluation & Optimization**: validation, métriques, tuning d’hyperparamètres, comparaison de modèles  
+- ⚙️ **Deployment & MLOps**: industrialisation, pipelines d’inférence, Docker, CI/CD, MLflow, déploiement HPC/Cloud  
+
+---
+
+## 🌐 Additional Skills
+- 💻 **Web Development**: Django | Flask | Laravel  
+- ☁️ **Cloud**: GCP (BigQuery, Vertex AI, Cloud Run)  
 
 ---
 
@@ -35,13 +48,13 @@
 
 ## 📌 Experience Highlights
 
-🔹 **IFP Energies nouvelles (Lyon)**  
-→ ML/DL model accelerating chemical simulations (**-98% computation time**)  
+🔹 **IFP Energies nouvelles**  
+→ ML/DL model accelerating chemical simulations
 
 🔹 **OFPPT (AI Referent)**  
 → End-to-end AI projects: data, modeling, deployment  
 
-🔹 **AGRI 4.0 (Freelance)**  
+🔹 **AGRI (Freelance)**  
 → National Data/AI project (IoT + ML + dashboards)  
 
 ---
